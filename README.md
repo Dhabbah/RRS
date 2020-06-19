@@ -1,7 +1,7 @@
 # Introduction
 
-Whenever we want to watch a movie, the general thing to do is go on IMDb, check out which movie has a good rating and reviews and then select. However, those ratings are given by the registered users, not all the people
-watching the movie. On the other hand, when we try to read the reviews, we can just read 5-10 reviews and then we try to judge how the movie will be like.
+Whenever we want to watch a movie, the general thing to do is go on IMDb, check out which movie has a good rating and reviews and then select them. However, those ratings are given by the registered users, not all people
+watch the movie. On the other hand, when we try to read the reviews, we can just read 5-10 reviews and then we try to judge how the movie will be like.
 
 What if there was a way to know how the movie is reviewed by ALL the people watching it and posting reviews on IMDb, and what if you can get the top words that are used to describe the movie?
 
